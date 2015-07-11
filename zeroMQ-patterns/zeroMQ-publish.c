@@ -1,4 +1,5 @@
 // Publish client
+// messages are queued up when using TCP, if subscriber is too slow
 
 #include <stdlib.h>
 #include <string.h>
